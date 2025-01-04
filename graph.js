@@ -4,7 +4,7 @@ class node{
         this.manes = []
     }
 }
-
+// its a test for contrib
 class addNode{
     constructor(){
         this.manes = []
